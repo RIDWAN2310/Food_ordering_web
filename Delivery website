@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Driver Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h2>Driver Dashboard</h2>
+  <ul id="driverOrders"></ul>
+
+  <script src="script.js"></script>
+  <script>loadDriverOrders();</script>
+</body>
+</html>
